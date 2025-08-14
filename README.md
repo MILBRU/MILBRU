@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MILBRU
 - 👀 I love playing games. My favorite games are Geometry Dash, Minecraft and Roblox Doors
 - 🌱 I’m currently learning C#, Python & Web development
-- 💞️ I’m looking to collaborate on minecraft plugins
 - 📫 You can reach me using discord. here's my username: milbru
 - 😄 Pronouns: he/him
 
