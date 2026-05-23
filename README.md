@@ -1,8 +1,25 @@
-- 👋 Hi, I’m @MILBRU
-- 👀 I love playing games. My favorite games are Geometry Dash, Minecraft and Roblox Doors
-- 🌱 I’m currently studying DAE-GGP
-- 📫 You can reach me using discord. My username is milbru
-- 😄 Pronouns: he/him
+Hi, i'm milbru.
+I love playing games and programming!
+
+You can contact me on discord - my username is `milbru`
+
+Programming languages i have used : 
+- Python
+- C#
+- Java (little bit)
+- C++ (little bit)
+
+Software i have used :
+- Visual Studio (Code)
+- PyCharm
+- IntelliJ
+- Houdini
+- Blender
+- Photoshop
+- Word
+- Excel
+- Powerpoint
+
 
 <!---
 MILBRU/MILBRU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
