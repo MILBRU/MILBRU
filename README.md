@@ -4,7 +4,7 @@ I love playing games and programming!
 You can contact me on discord - my username is `milbru`
 
 Programming languages i have used : 
-- Python
+- Python + PyGame
 - C#
 - Java (little bit)
 - C++ (little bit)
